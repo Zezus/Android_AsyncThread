@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Async_Thread</string>
+    <string name="image">image</string>
+    <string name="load_image">Load image</string>
+</resources>
